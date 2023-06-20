@@ -1,39 +1,4 @@
-\begin{thebibliography}{10}
-
-\bibitem{priebe2018enclavedb}
-Christian Priebe, Kapil Vaswani, and Manuel Costa.
-\newblock Enclavedb: A secure database using sgx.
-\newblock In {\em 2018 IEEE Symposium on Security and Privacy (SP)}, pages
-  264--278. IEEE, 2018.
-
-\bibitem{matetic2019bite}
-Sinisa Matetic, Karl W{\"u}st, Moritz Schneider, Kari Kostiainen, Ghassan
-  Karame, and Srdjan Capkun.
-\newblock $\{$BITE$\}$: Bitcoin lightweight client privacy using trusted
-  execution.
-\newblock In {\em 28th USENIX Security Symposium (USENIX Security 19)}, pages
-  783--800, 2019.
-
-\bibitem{stefanov2018path}
-Emil Stefanov, Marten~Van Dijk, Elaine Shi, T-H~Hubert Chan, Christopher
-  Fletcher, Ling Ren, Xiangyao Yu, and Srinivas Devadas.
-\newblock Path oram: an extremely simple oblivious ram protocol.
-\newblock {\em Journal of the ACM (JACM)}, 65(4):1--26, 2018.
-
-\bibitem{arnautov2016scone}
-Sergei Arnautov, Bohdan Trach, Franz Gregor, Thomas Knauth, Andre Martin,
-  Christian Priebe, Joshua Lind, Divya Muthukumaran, Dan O'keeffe, Mark~L
-  Stillwell, et~al.
-\newblock $\{$SCONE$\}$: Secure linux containers with intel $\{$SGX$\}$.
-\newblock In {\em 12th USENIX Symposium on Operating Systems Design and
-  Implementation (OSDI 16)}, pages 689--703, 2016.
-
-\bibitem{schuster2015vc3}
-Felix Schuster, Manuel Costa, C{\'e}dric Fournet, Christos Gkantsidis, Marcus
-  Peinado, Gloria Mainar-Ruiz, and Mark Russinovich.
-\newblock Vc3: Trustworthy data analytics in the cloud using sgx.
-\newblock In {\em 2015 IEEE symposium on security and privacy}, pages 38--54.
-  IEEE, 2015.
+\begin{thebibliography}{1}
 
 \bibitem{cheng2019ekiden}
 Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson,
@@ -42,56 +7,5 @@ Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson,
   performant smart contracts.
 \newblock In {\em 2019 IEEE European Symposium on Security and Privacy
   (EuroS\&P)}, pages 185--200. IEEE, 2019.
-
-\bibitem{das2019fastkitten}
-Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina
-  Host{\'a}kov{\'a}, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi.
-\newblock $\{$FastKitten$\}$: Practical smart contracts on bitcoin.
-\newblock In {\em 28th USENIX Security Symposium (USENIX Security 19)}, pages
-  801--818, 2019.
-
-\bibitem{baumann2015shielding}
-Andrew Baumann, Marcus Peinado, and Galen Hunt.
-\newblock Shielding applications from an untrusted cloud with haven.
-\newblock {\em ACM Transactions on Computer Systems (TOCS)}, 33(3):1--26, 2015.
-
-\bibitem{biondo2018guard}
-Andrea Biondo, Mauro Conti, Lucas Davi, Tommaso Frassetto, and Ahmad-Reza
-  Sadeghi.
-\newblock The guard's dilemma: Efficient $\{$Code-Reuse$\}$ attacks against
-  intel $\{$SGX$\}$.
-\newblock In {\em 27th USENIX Security Symposium (USENIX Security 18)}, pages
-  1213--1227, 2018.
-
-\bibitem{tsai2017graphene}
-Chia-Che Tsai, Donald~E Porter, and Mona Vij.
-\newblock Graphene-sgx: A practical library os for unmodified applications on
-  sgx.
-\newblock In {\em USENIX Annual Technical Conference}, pages 645--658, 2017.
-
-\bibitem{cui2021smashex}
-Jinhua Cui, Jason~Zhijingcheng Yu, Shweta Shinde, Prateek Saxena, and Zhiping
-  Cai.
-\newblock Smashex: Smashing sgx enclaves using exceptions.
-\newblock In {\em Proceedings of the 2021 ACM SIGSAC Conference on Computer and
-  Communications Security}, pages 779--793, 2021.
-
-\bibitem{jang2017hacking}
-Jaehyuk Lee Jinsoo Jang~Yeongjin Jang, Nohyun Kwak Yeseul Choi~Changho Choi,
-  Taesoo Kim, Marcus Peinado, and Brent~Byunghoon Kang.
-\newblock Hacking in darkness: Return-oriented programming against secure
-  enclaves.
-\newblock 2017.
-
-\bibitem{wang2019towards}
-Huibo Wang, Pei Wang, Yu~Ding, Mingshen Sun, Yiming Jing, Ran Duan, Long Li,
-  Yulong Zhang, Tao Wei, and Zhiqiang Lin.
-\newblock Towards memory safe enclave programming with rust-sgx.
-\newblock In {\em Proceedings of the 2019 ACM SIGSAC Conference on Computer and
-  Communications Security}, pages 2333--2350, 2019.
-
-\bibitem{asylo}
-Google asylo: An open and flexible framework for enclave applications.
-\newblock \url{https://asylo.dev/}, 2019.
 
 \end{thebibliography}
