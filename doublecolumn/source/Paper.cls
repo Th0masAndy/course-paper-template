@@ -24,7 +24,12 @@
 
 \setlength{\headheight}{15pt}
 
-\setmainfont{Times New Roman}  % 设置默认英文字体 Times
+\RequirePackage[T1]{fontenc}
+\RequirePackage[tt=false]{libertine}
+\setmonofont{inconsolata} 
+\RequirePackage[varqu]{zi4}
+\RequirePackage[libertine]{newtxmath}
+% \setmainfont{Times New Roman}  % 设置默认英文字体 Times
 \setCJKmainfont[AutoFakeBold=2,AutoFakeSlant=true]{SimSun}  % 设置默认中文字体 宋体
 
 
